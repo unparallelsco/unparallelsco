@@ -1,4 +1,4 @@
-# 🚀 sigmadev-in
+# 🚀 sigmadev-in now unparallelsco
 
 **sigmadev-in** by *Srijanxi Technologies* is an 🌐 **innovative platform** crafted to empower startups with effortless management of their codebases and projects 💡.  
 Blending **creative thinking** with **technological excellence**, it offers intuitive access, advanced controls, and seamless collaboration tools for visionary builders.
